@@ -1,0 +1,28 @@
+- in this demo client is NOT go client but curl client.
+
+Run1 steps:
+1. start server3
+2. curl http://localhost:8080/order
+3. wait for server response
+
+- check output on server:
+server return response after 5 seconds.
+
+Run2 steps:
+1. start server3
+2. curl http://localhost:8080/order
+3. press ctrl+c (kill curl) within 2 seconds
+
+- check output on server:
+server would have terminated request immediately when ctrl+c is pressed.
+
+** server output for Run1, Run2:
+
+[user@localhost context]$ go run demo3/server/server3.go 
+2018/11/20 10:39:25 server is up at localhost:8080
+2018/11/20 10:39:37 ==============================
+2018/11/20 10:39:37 got req: 1
+2018/11/20 10:39:42 order ok
+2018/11/20 10:39:46 ==============================
+2018/11/20 10:39:46 got req: 2
+2018/11/20 10:39:48 ctx.Done() is called
