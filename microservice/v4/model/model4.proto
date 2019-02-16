@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package model;
+
+service RoleService {
+    rpc GetRole(GetRoleRequest) returns (GetRoleReply) {}
+}
+
+message GetRoleRequest {
+    string userID = 1;
+}
+
+message GetRoleReply {
+    string role = 1;
+}
