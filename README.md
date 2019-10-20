@@ -14,3 +14,4 @@ This git repo contains all the code that has been presented in different golang 
 | 08 | Using gRPC with Golang | [microservice](https://github.com/nurali-techie/meetup-golang/tree/master/microservice) | [golang-meetup-41](https://www.meetup.com/Golang-Bangalore/events/258671999/) |  |
 | 09 | Authentication in Microservice with Golang | [microservice-auth](https://github.com/nurali-techie/meetup-golang/tree/master/microservice-auth) | [golang-meetup-43](https://www.meetup.com/Golang-Bangalore/events/260305278/) | [link](https://www.youtube.com/watch?v=HGe_3EX0XZ8&feature=youtu.be&t=10) |
 | 10 | Overview of Go Tools |  | [golang-meetup-45](https://www.meetup.com/Golang-Bangalore/events/261995195/) | [link](https://www.youtube.com/watch?v=5y_TTGyyrLw&feature=youtu.be&t=60) |
+| 11 | Go with Kafka | [go-kafka](https://github.com/nurali-techie/meetup-golang/tree/master/go-kafka) | [golang-meetup-49](https://www.meetup.com/Golang-Bangalore/events/265121237/) |  |
