@@ -2,7 +2,7 @@ This git repo contains all the code that has been presented in different golang 
 
 ### Meetup details:
 
-| ## | Topic | Code | Meetup | Recording |
+| ## | Topic | Code and Slides | Meetup | Recording |
 | -- | ---   | ---       | ---         | ---       |
 | 01 | Concurrency in Go | [concurrency](https://github.com/nurali-techie/gomeetup/tree/master/concurrency) | [golang-meetup-21](https://www.meetup.com/Golang-Bangalore/events/239033965/) |  |
 | 02 | Understanding Type system in Go | [type](https://github.com/nurali-techie/gomeetup/tree/master/type) | [golang-meetup-23](https://www.meetup.com/Golang-Bangalore/events/240022922/) | [link](https://www.youtube.com/watch?v=vNHmxVwtymU&feature=youtu.be&t=24) |
@@ -16,3 +16,4 @@ This git repo contains all the code that has been presented in different golang 
 | 10 | Overview of Go Tools |  | [golang-meetup-45](https://www.meetup.com/Golang-Bangalore/events/261995195/) | [link](https://www.youtube.com/watch?v=5y_TTGyyrLw&feature=youtu.be&t=60) |
 | 11 | Go with Kafka | [go-kafka](https://github.com/nurali-techie/meetup-golang/tree/master/go-kafka) | [golang-meetup-49](https://www.meetup.com/Golang-Bangalore/events/265121237/) |  |
 | 12 | Concurrency in Go | [go-concurrency](https://github.com/nurali-techie/meetup-golang/tree/master/go-concurrency) |  |  |
+| 13 | Go Modules | [go-modules](https://github.com/nurali-techie/meetup-golang/tree/master/go-modules) / [module-demo](https://github.com/nurali-techie/module-demo) / [module-app](https://github.com/nurali-techie/module-app) | [golang-meetup-55](https://www.meetup.com/Golang-Bangalore/events/271013047/) |  |
